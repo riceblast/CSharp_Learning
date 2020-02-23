@@ -1,0 +1,8 @@
+D:\CS\C#\VS src\repos\ConsoleTemp\MyLin\bin\Debug\netstandard2.0\MyLib.deps.json
+D:\CS\C#\VS src\repos\ConsoleTemp\MyLin\bin\Debug\netstandard2.0\MyLib.dll
+D:\CS\C#\VS src\repos\ConsoleTemp\MyLin\bin\Debug\netstandard2.0\MyLib.pdb
+D:\CS\C#\VS src\repos\ConsoleTemp\MyLin\obj\Debug\netstandard2.0\MyLib.AssemblyInfoInputs.cache
+D:\CS\C#\VS src\repos\ConsoleTemp\MyLin\obj\Debug\netstandard2.0\MyLib.AssemblyInfo.cs
+D:\CS\C#\VS src\repos\ConsoleTemp\MyLin\obj\Debug\netstandard2.0\MyLib.dll
+D:\CS\C#\VS src\repos\ConsoleTemp\MyLin\obj\Debug\netstandard2.0\MyLib.pdb
+D:\CS\C#\VS src\repos\ConsoleTemp\MyLin\obj\Debug\netstandard2.0\MyLib.csprojAssemblyReference.cache

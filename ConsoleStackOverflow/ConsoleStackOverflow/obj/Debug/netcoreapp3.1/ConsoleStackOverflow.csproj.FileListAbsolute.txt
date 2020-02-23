@@ -1,0 +1,11 @@
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\bin\Debug\netcoreapp3.1\ConsoleStackOverflow.exe
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\bin\Debug\netcoreapp3.1\ConsoleStackOverflow.deps.json
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\bin\Debug\netcoreapp3.1\ConsoleStackOverflow.runtimeconfig.json
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\bin\Debug\netcoreapp3.1\ConsoleStackOverflow.runtimeconfig.dev.json
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\bin\Debug\netcoreapp3.1\ConsoleStackOverflow.dll
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\bin\Debug\netcoreapp3.1\ConsoleStackOverflow.pdb
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\obj\Debug\netcoreapp3.1\ConsoleStackOverflow.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\obj\Debug\netcoreapp3.1\ConsoleStackOverflow.AssemblyInfoInputs.cache
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\obj\Debug\netcoreapp3.1\ConsoleStackOverflow.AssemblyInfo.cs
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\obj\Debug\netcoreapp3.1\ConsoleStackOverflow.dll
+D:\CS\C#\VS src\repos\ConsoleStackOverflow\ConsoleStackOverflow\obj\Debug\netcoreapp3.1\ConsoleStackOverflow.pdb

@@ -1,0 +1,14 @@
+D:\CS\C#\VS src\repos\RibbonDemo\obj\Debug\RibbonDemo.Properties.Resources.resources
+D:\CS\C#\VS src\repos\RibbonDemo\obj\Debug\RibbonDemo.csproj.GenerateResource.cache
+D:\CS\C#\VS src\repos\RibbonDemo\bin\Debug\RibbonDemo.dll
+D:\CS\C#\VS src\repos\RibbonDemo\bin\Debug\RibbonDemo.pdb
+D:\CS\C#\VS src\repos\RibbonDemo\obj\Debug\RibbonDemo.dll
+D:\CS\C#\VS src\repos\RibbonDemo\obj\Debug\RibbonDemo.pdb
+D:\CS\C#\VS src\repos\RibbonDemo\bin\Debug\AcCui.dll
+D:\CS\C#\VS src\repos\RibbonDemo\obj\Debug\RibbonDemo.csproj.CopyComplete
+D:\CS\C#\VS src\repos\RibbonDemo\bin\Debug\acdbmgdbrep.dll
+D:\CS\C#\VS src\repos\RibbonDemo\bin\Debug\PresentationCore.dll
+D:\CS\C#\VS src\repos\RibbonDemo\obj\Debug\RibbonDemo.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\RibbonDemo\obj\Debug\Interop.AutoCAD.dll
+D:\CS\C#\VS src\repos\RibbonDemo\obj\Debug\Interop.AXDBLib.dll
+D:\CS\C#\VS src\repos\RibbonDemo\obj\Debug\RibbonDemo.csproj.ResolveComReference.cache

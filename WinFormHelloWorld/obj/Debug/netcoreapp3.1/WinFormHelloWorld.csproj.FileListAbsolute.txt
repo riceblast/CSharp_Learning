@@ -1,0 +1,17 @@
+D:\CS\C#\VS src\repos\WinFormHelloWorld\bin\Debug\netcoreapp3.1\WinFormHelloWorld.exe
+D:\CS\C#\VS src\repos\WinFormHelloWorld\bin\Debug\netcoreapp3.1\WinFormHelloWorld.deps.json
+D:\CS\C#\VS src\repos\WinFormHelloWorld\bin\Debug\netcoreapp3.1\WinFormHelloWorld.runtimeconfig.json
+D:\CS\C#\VS src\repos\WinFormHelloWorld\bin\Debug\netcoreapp3.1\WinFormHelloWorld.runtimeconfig.dev.json
+D:\CS\C#\VS src\repos\WinFormHelloWorld\bin\Debug\netcoreapp3.1\WinFormHelloWorld.dll
+D:\CS\C#\VS src\repos\WinFormHelloWorld\bin\Debug\netcoreapp3.1\WinFormHelloWorld.pdb
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\WinFormHelloWorld.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\App.g.cs
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\WinFormHelloWorld_MarkupCompile.cache
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\WinFormHelloWorld_MarkupCompile.lref
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\WinFormHelloWorld.g.resources
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\WinFormHelloWorld.AssemblyInfoInputs.cache
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\WinFormHelloWorld.AssemblyInfo.cs
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\WinFormHelloWorld.dll
+D:\CS\C#\VS src\repos\WinFormHelloWorld\obj\Debug\netcoreapp3.1\WinFormHelloWorld.pdb

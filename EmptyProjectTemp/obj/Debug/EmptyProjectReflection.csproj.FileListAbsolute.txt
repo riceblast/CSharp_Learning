@@ -1,0 +1,17 @@
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\EmptyProjectTemp.exe.config
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\EmptyProjectTemp.exe
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\EmptyProjectTemp.pdb
+D:\CS\C#\VS src\repos\EmptyProjectTemp\obj\Debug\EmptyProjectReflection.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\EmptyProjectTemp\obj\Debug\EmptyProjectTemp.exe
+D:\CS\C#\VS src\repos\EmptyProjectTemp\obj\Debug\EmptyProjectTemp.pdb
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CS\C#\VS src\repos\EmptyProjectTemp\obj\Debug\EmptyProjectReflection.csproj.CopyComplete

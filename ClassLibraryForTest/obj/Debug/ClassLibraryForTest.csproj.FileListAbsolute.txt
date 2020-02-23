@@ -1,0 +1,4 @@
+D:\CS\C#\VS src\repos\ClassLibraryForTest\bin\Debug\ClassLibraryForTest.dll
+D:\CS\C#\VS src\repos\ClassLibraryForTest\bin\Debug\ClassLibraryForTest.pdb
+D:\CS\C#\VS src\repos\ClassLibraryForTest\obj\Debug\ClassLibraryForTest.dll
+D:\CS\C#\VS src\repos\ClassLibraryForTest\obj\Debug\ClassLibraryForTest.pdb

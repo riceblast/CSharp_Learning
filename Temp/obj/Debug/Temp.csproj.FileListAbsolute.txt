@@ -1,0 +1,6 @@
+D:\CS\C#\VS src\repos\Temp\obj\Debug\Temp.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\Temp\bin\Debug\Temp.dll.config
+D:\CS\C#\VS src\repos\Temp\bin\Debug\Temp.dll
+D:\CS\C#\VS src\repos\Temp\bin\Debug\Temp.pdb
+D:\CS\C#\VS src\repos\Temp\obj\Debug\Temp.dll
+D:\CS\C#\VS src\repos\Temp\obj\Debug\Temp.pdb

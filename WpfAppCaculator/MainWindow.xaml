@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfAppCaculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppCaculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Color x:Key="Color1">#FF050505</Color>
+    </Window.Resources>
+    <Grid>
+        <Label x:Name="Label_Operator1" Content="Operator1" HorizontalAlignment="Left" Margin="45,40,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label x:Name="Label_Operator2" Content="Operator2" HorizontalAlignment="Left" Margin="45,119,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button x:Name="Button_Commit" Content="Commit" HorizontalAlignment="Left" Height="53" Margin="434,340,0,0" VerticalAlignment="Top" Width="181" FontSize="20" Click="Button_Commit_Click"/>
+        <TextBox x:Name="TextBox_Operator1" HorizontalAlignment="Right" Height="23" Margin="0,0,473.333,352.667" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="120"/>
+        <TextBox x:Name="TextBox_Operator2" HorizontalAlignment="Right" Height="23" Margin="0,0,473.333,271.667" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="120"/>
+        <Label x:Name="Label_Result" Content="Result：" HorizontalAlignment="Right" Margin="0,91,274.333,0" VerticalAlignment="Top" Height="46" Width="84" FontSize="22"/>
+        <ComboBox x:Name="ComboBox_Operand" HorizontalAlignment="Right" Margin="0,232,348.333,0" VerticalAlignment="Top" Width="120" IsReadOnly="True">
+            <ComboBoxItem x:Name="ComboBoxItem_Plus" Content="+" FontSize="20" BorderBrush="Black"/>
+            <ComboBoxItem x:Name="ComboBoxItem_Sub" Content="-" FontSize="20" BorderBrush="Black"/>
+            <ComboBoxItem x:Name="ComboBoxItem_Plus1" Content="*" FontSize="20" BorderBrush="Black"/>
+            <ComboBoxItem x:Name="ComboBoxItem_Div" Content="/" FontSize="20" BorderBrush="Black" Background="Transparent"/>
+        </ComboBox>
+        <Label x:Name="Label_ShowResult" Content="" HorizontalAlignment="Left" Margin="524,0,0,283.667" VerticalAlignment="Bottom" Height="36" Width="213" FontSize="20"/>
+        <Label Content="运算符" HorizontalAlignment="Right" Margin="0,0,376.333,193.667" VerticalAlignment="Bottom" FontSize="20"/>
+        <Button x:Name="button_Clear" Content="Clear" HorizontalAlignment="Left" Margin="169,340,0,0" VerticalAlignment="Top" Width="151" Height="53" FontSize="24" IsCancel="True" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

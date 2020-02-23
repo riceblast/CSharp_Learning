@@ -1,0 +1,9 @@
+D:\CS\C#\VS src\repos\WindowsFormsAppRibbon\bin\Debug\WindowsFormsAppRibbon.exe.config
+D:\CS\C#\VS src\repos\WindowsFormsAppRibbon\bin\Debug\WindowsFormsAppRibbon.exe
+D:\CS\C#\VS src\repos\WindowsFormsAppRibbon\bin\Debug\WindowsFormsAppRibbon.pdb
+D:\CS\C#\VS src\repos\WindowsFormsAppRibbon\obj\Debug\WindowsFormsAppRibbon.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\WindowsFormsAppRibbon\obj\Debug\WindowsFormsAppRibbon.Properties.Resources.resources
+D:\CS\C#\VS src\repos\WindowsFormsAppRibbon\obj\Debug\WindowsFormsAppRibbon.csproj.GenerateResource.cache
+D:\CS\C#\VS src\repos\WindowsFormsAppRibbon\obj\Debug\WindowsFormsAppRibbon.exe
+D:\CS\C#\VS src\repos\WindowsFormsAppRibbon\obj\Debug\WindowsFormsAppRibbon.pdb
+D:\CS\C#\VS src\repos\WindowsFormsAppRibbon\obj\Debug\WindowsFormsAppRibbon.Form1.resources

@@ -1,0 +1,6 @@
+D:\CS\C#\VS src\repos\EmptyProjectTemp\obj\Debug\EmptyProjectTemp.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\EmptyProjectTemp.exe.config
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\EmptyProjectTemp.exe
+D:\CS\C#\VS src\repos\EmptyProjectTemp\bin\Debug\EmptyProjectTemp.pdb
+D:\CS\C#\VS src\repos\EmptyProjectTemp\obj\Debug\EmptyProjectTemp.exe
+D:\CS\C#\VS src\repos\EmptyProjectTemp\obj\Debug\EmptyProjectTemp.pdb

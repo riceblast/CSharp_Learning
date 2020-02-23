@@ -1,0 +1,17 @@
+D:\CS\C#\VS src\repos\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\CS\C#\VS src\repos\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\CS\C#\VS src\repos\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\CS\C#\VS src\repos\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\CS\C#\VS src\repos\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\CS\C#\VS src\repos\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\App.g.cs
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_MarkupCompile.cache
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_MarkupCompile.lref
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.g.resources
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\CS\C#\VS src\repos\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb

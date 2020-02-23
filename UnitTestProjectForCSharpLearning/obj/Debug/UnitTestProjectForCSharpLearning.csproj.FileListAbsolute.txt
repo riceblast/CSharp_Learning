@@ -1,0 +1,15 @@
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\UnitTestProjectForCSharpLearning.dll
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\UnitTestProjectForCSharpLearning.pdb
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\ClassLibraryForTest.dll
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\ClassLibraryForTest.pdb
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\obj\Debug\UnitTestProjectForCSharpLearning.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\obj\Debug\UnitTestProjectForCSharpLearning.csproj.CopyComplete
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\obj\Debug\UnitTestProjectForCSharpLearning.dll
+D:\CS\C#\VS src\repos\UnitTestProjectForCSharpLearning\obj\Debug\UnitTestProjectForCSharpLearning.pdb

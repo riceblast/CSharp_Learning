@@ -1,0 +1,8 @@
+D:\CS\C#\VS src\repos\ClassLibraryGeometry\bin\x64\Debug\ClassLibraryGeometry.dll
+D:\CS\C#\VS src\repos\ClassLibraryGeometry\bin\x64\Debug\ClassLibraryGeometry.pdb
+D:\CS\C#\VS src\repos\ClassLibraryGeometry\obj\x64\Debug\ClassLibraryGeometry.dll
+D:\CS\C#\VS src\repos\ClassLibraryGeometry\obj\x64\Debug\ClassLibraryGeometry.pdb
+D:\CS\C#\VS src\repos\ClassLibraryGeometry\obj\x64\Debug\ClassLibraryGeometry.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\ClassLibraryGeometry\obj\x64\Debug\Interop.AutoCAD.dll
+D:\CS\C#\VS src\repos\ClassLibraryGeometry\obj\x64\Debug\Interop.AXDBLib.dll
+D:\CS\C#\VS src\repos\ClassLibraryGeometry\obj\x64\Debug\ClassLibraryGeometry.csproj.ResolveComReference.cache

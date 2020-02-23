@@ -1,0 +1,14 @@
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\bin\Debug\WpfAppLearning2_21.exe.config
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\bin\Debug\WpfAppLearning2_21.exe
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\bin\Debug\WpfAppLearning2_21.pdb
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\WpfAppLearning2_21.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\MainWindow.g.cs
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\App.g.cs
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\WpfAppLearning2_21_MarkupCompile.cache
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\WpfAppLearning2_21_MarkupCompile.lref
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\MainWindow.baml
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\WpfAppLearning2_21.g.resources
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\WpfAppLearning2_21.Properties.Resources.resources
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\WpfAppLearning2_21.csproj.GenerateResource.cache
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\WpfAppLearning2_21.exe
+D:\CS\C#\VS src\repos\WpfAppLearning2_21\obj\Debug\WpfAppLearning2_21.pdb

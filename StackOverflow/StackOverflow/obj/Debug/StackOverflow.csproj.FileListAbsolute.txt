@@ -1,0 +1,14 @@
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\bin\Debug\StackOverflow.exe.config
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\bin\Debug\StackOverflow.exe
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\bin\Debug\StackOverflow.pdb
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\StackOverflow.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\MainWindow.g.cs
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\App.g.cs
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\StackOverflow_MarkupCompile.cache
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\StackOverflow_MarkupCompile.lref
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\MainWindow.baml
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\StackOverflow.g.resources
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\StackOverflow.Properties.Resources.resources
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\StackOverflow.csproj.GenerateResource.cache
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\StackOverflow.exe
+D:\CS\C#\VS src\repos\StackOverflow\StackOverflow\obj\Debug\StackOverflow.pdb

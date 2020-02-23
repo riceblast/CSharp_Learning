@@ -1,0 +1,7 @@
+D:\CS\C#\VS src\repos\ClassLibraryAutoCADStudyUnit2\bin\Debug\ClassLibraryAutoCADStudyUnit2.dll
+D:\CS\C#\VS src\repos\ClassLibraryAutoCADStudyUnit2\bin\Debug\ClassLibraryAutoCADStudyUnit2.pdb
+D:\CS\C#\VS src\repos\ClassLibraryAutoCADStudyUnit2\obj\Debug\ClassLibraryAutoCADStudyUnit2.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\ClassLibraryAutoCADStudyUnit2\obj\Debug\ClassLibraryAutoCADStudyUnit2.dll
+D:\CS\C#\VS src\repos\ClassLibraryAutoCADStudyUnit2\obj\Debug\ClassLibraryAutoCADStudyUnit2.pdb
+D:\CS\C#\VS src\repos\ClassLibraryAutoCADStudyUnit2\bin\Debug\WindowsBase.dll
+D:\CS\C#\VS src\repos\ClassLibraryAutoCADStudyUnit2\obj\Debug\ClassLibraryAutoCADStudyUnit2.csproj.CopyComplete
